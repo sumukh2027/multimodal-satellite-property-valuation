@@ -1,5 +1,16 @@
 venv/
 __pycache__/
 *.pyc
+
+# Data (VERY IMPORTANT)
 data/raw/
-models/
+data/processed/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Model files
+*.h5
+*.pkl
+
+.env
