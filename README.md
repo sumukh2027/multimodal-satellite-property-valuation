@@ -26,3 +26,4 @@ This project predicts property prices using:
 
 ## ⚠️ Note
 Raw images are not included due to size constraints.
+
